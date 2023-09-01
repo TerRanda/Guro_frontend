@@ -1,0 +1,12 @@
+* {
+  background-color: #f6f6f6;
+  text-align: center;
+}
+#content {
+  color: lightpink;
+  border: 0.5px dashed black;
+  transition: all 3s;
+}
+#content:hover {
+  transform: rotate(360deg);
+}

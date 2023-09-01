@@ -1,0 +1,19 @@
+#root {
+  font-size: 2vw;
+  text-align: center;
+  margin: 0px;
+}
+body{
+  margin: 0px;
+}
+nav{
+  border-bottom: 1px dashed lightpink;
+  background-color: #f6f6f6;
+}
+.link{
+  text-decoration: none;
+  margin: 20px;
+  color: lightpink;
+  cursor: pointer;
+
+}

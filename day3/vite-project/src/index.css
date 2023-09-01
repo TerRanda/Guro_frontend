@@ -1,0 +1,14 @@
+/* 모든 문서 초기값 */
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+a{
+  text-decoration: none;
+}
